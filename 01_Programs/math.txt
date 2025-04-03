@@ -1,0 +1,1 @@
+Decimal (Base 10): This is the standard system we use daily, with digits 0-9. Example: 345 (in decimal) represents 3 hundreds, 4 tens, and 5 units.
